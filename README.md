@@ -1,2 +1,2 @@
 # voiceCam
-Voice enabled camera
+Creating your own voice enabled camera using Amazon Echo
